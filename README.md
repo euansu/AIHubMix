@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/logo.png" alt="icon" width="50px"/>
+<img src="./images/logohubmix.png" alt="icon" width="50px"/>
   
 <h1 align="center">AI Hub Mix</h1>
 
