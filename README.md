@@ -18,10 +18,6 @@
 
 
 
-## 计费模式
-与官方 API 扣费规则保持一致，充值后额度一直有效，用完为止。
-
-
 
 ## AI Hubmix
 其设计初衷就是要让用户能够更简单、更经济地接入 OpenAI 、Claude、Gemini、Llama等一流的强大 API 功能。通过 AI Hubmix ，用户无需直接申请和管理 OpenAI API 的密钥，他们可以通过我们优化的管道，得到与直接调用 OpenAI 服务完全一致的体验。提供 API ，首页有详细的使用方式，可以用本站部署的 WebUI ，也可以用自己习惯的客户端。
@@ -41,5 +37,3 @@ aihubmix 的账号池包含多个 OpenAI API 账号，每个账号都具有一�
 
 
 
-P.S.
-需要官方 openAI 带 credits 账号的朋友，也可以联系客服
